@@ -43,9 +43,9 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
+  name: Vishal Vikram Singh
+  email: "vishalvikram1992@gmail.com"
+  facebook: vishalvikramSingh # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
@@ -57,7 +57,7 @@ author:
   instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
+  telephone: +918130428510   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
