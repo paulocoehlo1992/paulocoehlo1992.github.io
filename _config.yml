@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: A bit of Machine Learning
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: This is my personal blog .I am machine learning enthusiast and currently working as Data Engineer at Digit.
 
 # --- Navigation bar options --- #
 
